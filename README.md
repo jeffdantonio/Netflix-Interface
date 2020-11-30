@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./public/github_image/netflix-log.png" alt="Logomarca Netflix"/>
+    <img src="public/github_image/netflix-log.png" alt="Logomarca Netflix"/>
     <p>Netflix</p>
     <img src="https://img.shields.io/badge/-HTML-orange" alt="badge HTML"/>
     <img src="https://img.shields.io/badge/-CSS-blue" alt="badge CSS"/>
@@ -13,9 +13,9 @@ O projeto consiste em refazer a Interface da Netflix fixar os conceitos de html 
 
 ## Layouts
 
-    <img src="./public/github_image/tela.PNG" alt="Layout"/>
-    <img src="./public/github_image/Tablet.PNG" alt="tablet"/>
-    <img src="./public/github_image/mobile.PNG" alt="mobile"/>
+    <img src="public/github_image/tela.PNG" alt="Layout"/>
+    <img src="public/github_image/Tablet.PNG" alt="tablet"/>
+    <img src="public/github_image/mobile.PNG" alt="mobile"/>
 
 ## 🛠 Tecnologias
 
