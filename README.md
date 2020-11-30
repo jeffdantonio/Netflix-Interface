@@ -13,9 +13,7 @@ O projeto consiste em refazer a Interface da Netflix fixar os conceitos de html 
 
 ## Layouts
 
-    <img src="./public/github_image/tela.PNG" alt="Layout"/>
-    <img src="./public/github_image/Tablet.PNG" alt="tablet"/>
-    <img src="./public/github_image/mobile.PNG" alt="mobile"/>
+    
 
 ## 🛠 Tecnologias
 
