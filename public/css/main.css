@@ -1,0 +1,116 @@
+:root{
+    --vermelho: #e50914;
+    --preto: #141414;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Base */
+
+body{
+    background: var(--preto);
+    font-family: 'Arial', Times, serif;
+    color: whitesmoke;
+}
+
+header .container{
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: space-between;
+}
+
+header .logo{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 40px;
+    
+}
+
+header nav a{
+    text-decoration: none;
+    color: #aaa;
+    margin-right: 10px;
+}
+
+header nav a:hover{
+    color: #fff;
+}
+
+
+.container{
+    margin-left: 20px;
+}
+
+/* Main Attraction */
+
+.main-attraction{
+    font-size: 16px;
+    background: linear-gradient(rgba(0,0,0, .50),rgba(0,0,0, .50)100%),
+    url(../image/capa_gambito_rainha.jpg);
+
+    height: 400px;
+    background-size: cover;
+   
+   
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.main-attraction .container{
+    width: 70%;
+}
+
+
+
+.main-attraction .description{
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.main-attraction .title{
+    margin-top: 15%;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.button{
+    background-color: rgba(0,0,0, .50) ;
+    border: none;
+    color: whitesmoke;
+
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+.button:hover{
+    background-color: whitesmoke;
+    color: rgb(0, 0, 0);
+}
+
+.button i{
+    margin-right: 8px;
+}
+
+.box-attraction{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.carousel-attraction{
+    margin-top: 10px;
+}
+
+
+
